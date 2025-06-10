@@ -1,0 +1,2 @@
+# products.xml
+Product file
